@@ -1,0 +1,18 @@
+{
+    "tasks": [
+        {
+            "task": "statics",
+            "priority": "High",
+            "completed": false,
+            "date": "2026-02-07"
+        },
+        {
+            "task": "probability",
+            "priority": "Medium",
+            "completed": false,
+            "date": "2026-02-07"
+        }
+    ],
+    "notes": [],
+    "progress": {}
+}
